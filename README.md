@@ -1,3 +1,8 @@
+# To launch
+
+You should copy file .env.example to .env and set REACT_APP_FLICKR_API_KEY
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
