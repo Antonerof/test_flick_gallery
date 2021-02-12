@@ -1,0 +1,15 @@
+.list {
+    display: grid;
+    width: 1280px;
+    margin: auto;
+    grid-template-columns: repeat(5, 248px);
+    grid-gap: 10px;
+
+    img {
+        width: 100%;
+
+        &.selected {
+            outline: 3px solid aqua;
+        }
+    }
+}
